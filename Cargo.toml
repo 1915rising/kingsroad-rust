@@ -1,0 +1,9 @@
+[package]
+name = "kingsroad"
+version = "1.0.0"
+edition = "2021"
+description = "A dice race down the king's road - a tiny terminal game in Rust"
+license = "MIT"
+
+[profile.release]
+opt-level = 3
